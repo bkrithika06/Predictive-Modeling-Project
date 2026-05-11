@@ -56,3 +56,12 @@ Learned supervised learning, model evaluation, and predictive modeling using Mac
 
 
 
+Output
+
+The project generates:
+
+Model Accuracy Score
+Confusion Matrix Visualization
+
+
+
